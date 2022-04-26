@@ -50,15 +50,12 @@ exactly like in the examples.
 > :warning: The first noncompliant or empty line will lead to the end of the anthill acquisition, as
 well as its normal treatment with the data that has already been acquired.
 
-File example :
-
-
-
-
-
-Program execution : 
-
-
-
-
+<div align="center">
+    <img src="readme_utils/example.png" alt="program example" width="70%">
+</div>
+    
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+<h4>Contributions : </h4>
+
+* Yann DEMUYT : https://github.com/demisIsTired
