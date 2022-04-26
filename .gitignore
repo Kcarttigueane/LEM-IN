@@ -1,0 +1,7 @@
+*.o
+*.gcno
+*.gcda
+vgcore*
+junk.txt
+test
+lem_in
